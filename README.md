@@ -4,6 +4,10 @@ Short-Term Traffic Forecasting Using Self-Adjusting k-Nearest Neighbours.
 
 Regarding Short-Term Prediction by Self-Adjusting kNN (DP-kNN).
 
+Journal Abbr.: IET Intell. Transp. Syst.
+
+DOI: 10.1049/iet-its.2016.0263.
+
 Some content will be updated later.
 
 # Abstract
