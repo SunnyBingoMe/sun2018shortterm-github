@@ -2,9 +2,9 @@ This repo is for the paper:
 
 Short-Term Traffic Forecasting Using Self-Adjusting k-Nearest Neighbours.
 
-Regarding Short-Term Prediction by Self-Adjusting kNN (DP-kNN).
+It is about short-term prediction by self-adjusting dynamic procedure kNN (DP-kNN).
 
-Journal Abbr.: IET Intell. Transp. Syst.
+Published by Journal (Abbr.): IET Intell. Transp. Syst.
 
 DOI: 10.1049/iet-its.2016.0263.
 
@@ -18,8 +18,10 @@ We used realworld data with more than one-year traffic records to conduct experi
 The results show that DP-kNN can perform better than manually adjusted kNN and other benchmarking methods with regards to accuracy on average. 
 This study also discusses the difference between holiday and workday traffic prediction as well as the usage of neighbour distance measurement.
 
-# Usage
-Code: to be updated. 
+# Code
+Level 1 code is available in repo: [level 1](https://github.com/SunnyBingoMe/code_knn_level1_cuda), which is used to generate parameters' combinations' results.
+Level 2 code is available in folder R.
+Note: the implementation is not considering the data as stream as it just make the handling of data non-necessaryly more complex than evaluation's requirement, more like an industry software.
 
 # Results
 The results show that DP-kNN gives 9% to 40% improvement than benchmarking methods on average.
